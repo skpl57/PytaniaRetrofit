@@ -1,0 +1,39 @@
+{
+  "pytania":[
+    {
+      "tresc": "Jaki jest wiek obserwowalnego wszechświata",
+      "odp_A": "8.9 mld lat",
+      "odp_B": "13.8 mld lat",
+      "odp_C": "11.2 mld lat",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Entropia jest miarą...",
+      "odp_A": "Nieuporządkowania",
+      "odp_B": "Zagęszczenia planet",
+      "odp_C": "Promieniowania kosmicznego",
+      "poprawna": 0
+    },
+    {
+      "tresc": "Z jaką prędkością podróżuje światło?",
+      "odp_A": "300.000 km/h",
+      "odp_B": "300.000 m/s",
+      "odp_C": "300.000 km/s",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Jak szybka jest grawitacja",
+      "odp_A": "Tak szybka jak światło",
+      "odp_B": "Wolniejsza od światła",
+      "odp_C": "Szybsza od światła",
+      "poprawna": 0
+    },
+    {
+      "tresc": "Kot Schrödingera to...",
+      "odp_A": "Zwykły kot naukowca",
+      "odp_B": "Kot który jest w superpozycji",
+      "odp_C": "Pierwszy kot w kosmosie",
+      "poprawna": 1
+    }
+  ]
+}
