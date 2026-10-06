@@ -1,5 +1,4 @@
-{
-  "pytania":[
+[
     {
       "tresc": "Jaki jest wiek obserwowalnego wszechświata",
       "odp_A": "8.9 mld lat",
@@ -36,4 +35,3 @@
       "poprawna": 1
     }
   ]
-}
